@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ed.biordm.mail.test.MailingApplicationTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.254 s - in ed.biordm.mail.test.MailingApplicationTest
